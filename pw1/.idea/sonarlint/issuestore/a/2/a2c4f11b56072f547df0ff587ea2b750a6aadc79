@@ -1,0 +1,15 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "<br/>" 8 times.(èÒùÊúÿÿÿÿ8†ñç¼ª1
+u
+java:S1104"SMake counter a static final constant or non-public and provide accessors if needed.(Ô¦Óªşÿÿÿÿ8•‡ß¼ª1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( Üó8œ‡ß¼ª1
+
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶î8œ‡ß¼ª1
+W
+java:S1161":Add the "@Override" annotation above this method signature( Üó8Ÿ‡ß¼ª1
+W
+java:S1161":Add the "@Override" annotation above this method signature(°¥¸û8 ‡ß¼ª1
+W
+java:S1161$":Add the "@Override" annotation above this method signature(‚“¶î8¢‡ß¼ª1
